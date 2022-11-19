@@ -1,3 +1,5 @@
+// @author Louis Hauchecorne
+
 int switchState=0;
 
 void setup() {
